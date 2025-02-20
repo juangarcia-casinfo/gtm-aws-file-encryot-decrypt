@@ -1,0 +1,9 @@
+mkdir my_lambda_layer
+cd my_lambda_layer
+python3 -m venv venv
+source venv/bin/activate
+pip install cryptography
+
+mkdir python
+cp -r venv/lib/python3.x/site-packages/* python/
+zip -r9 cryptography_layer.zip python/

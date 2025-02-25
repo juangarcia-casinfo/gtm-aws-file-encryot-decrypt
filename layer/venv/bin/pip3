@@ -1,4 +1,4 @@
-#!/Users/juangarcia/Documents/projects/testgrounds/aws_encrypt_file/layer/venv/bin/python3.11
+#!/Users/juangarcia/Documents/projects/testgrounds/repos/gtm-aws-file-encryot-decrypt/gtm-aws-file-encryot-decrypt/layer/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
